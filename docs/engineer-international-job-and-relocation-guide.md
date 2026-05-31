@@ -13,7 +13,7 @@ Michael should position himself as an internationally mobile engineer who can so
 
 1. Target Ireland first because many professional engineering roles are on the Critical Skills Occupations List.
 2. Target Finland/Helsinki in parallel for specialist roles, especially where the employer already hires in English and uses international recruitment.
-3. Build a CV, LinkedIn profile, and project portfolio around measurable engineering outcomes: cost savings, reliability improvement, design ownership, maintenance uptime, safety, quality, commissioning, regulatory compliance, project delivery, or production throughput.
+3. Build a CV, LinkedIn profile, and project portfolio around Michael's strongest evidence: maintenance reliability, manufacturing performance, capital project execution, production planning, SAP/MRP, TPM/IWS coaching, Lean Six Sigma, safety, quality, compliance, and strategic operations leadership.
 4. Apply only to roles that are likely to qualify for work authorization and explicitly mention willingness to relocate from Nigeria with the correct permit process.
 5. Use a disciplined pipeline: target roles, tailor applications, network with hiring managers/recruiters, prepare documentation, interview, secure written offer, then proceed to permit/visa.
 
@@ -54,6 +54,13 @@ Key CSEP points to understand:
 - The employment permit is not the same as residence permission; after arrival, the worker must register immigration residence in Ireland.
 - CSEP can lead to permission to work without a further employment permit after the required CSEP period, subject to Irish immigration rules.
 
+Qualification note for Michael:
+
+- Michael's profile shows a strong technical and operations leadership background, including mechanical engineering diplomas, industrial/production management training, an MBA in operations and strategic management, and an in-progress master's degree in industrial engineering.
+- For the EUR 40,904 listed-occupation CSEP route, Ireland normally expects a relevant degree or higher for the role. Before relying on the lower listed-role threshold, Michael should have employers or an immigration adviser assess whether his technical diplomas, business degree, MBA, and experience satisfy the specific role requirements.
+- If the role is highly paid and the employer can meet the EUR 68,911 route, the qualification analysis may be more flexible, provided the occupation is not ineligible and Michael has the necessary experience.
+- The safest job titles are those where the employer can clearly map the role to an eligible SOC category, such as Production/Process Engineer, Project Engineer, Quality/Planning Engineer, Mechanical Maintenance/Reliability Engineer, Technical Services Manager with engineering duties, or Site/Operations role with substantial engineering scope.
+
 ### Finland/Helsinki: specialist residence permit
 
 Finland is a useful second track because the Helsinki campaign targets English-speaking international professionals, and the Eaton example is a real senior mechanical engineering role in Vantaa.
@@ -67,11 +74,11 @@ The official Finnish Immigration Service specialist route states that a candidat
 
 The Helsinki market is especially relevant for:
 
-- mechanical design engineering;
-- electrical and power systems engineering;
-- R&D engineering;
-- product development;
-- manufacturing engineering;
+- maintenance reliability and asset management;
+- manufacturing engineering and production planning;
+- continuous improvement and process optimisation;
+- technical services and project delivery;
+- mechanical, electrical, and power systems engineering;
 - energy, critical power, and sustainability-related engineering;
 - English-speaking specialist roles in multinational companies.
 
@@ -79,35 +86,35 @@ The Helsinki market is especially relevant for:
 
 ### Primary target roles for Ireland
 
-Prioritize roles where the job title and job description clearly match the Irish Critical Skills list:
+Prioritize roles where the job title and job description clearly match the Irish Critical Skills list while also matching Michael's actual senior operations and maintenance profile:
 
-1. Mechanical Engineer / Senior Mechanical Engineer
-2. Mechanical Design Engineer / Product Design Engineer
-3. Electrical Engineer / Power Systems Engineer
-4. Process Engineer / Production Engineer
-5. Project Engineer
-6. Quality Engineer / Validation Engineer
-7. Civil, Structural, Site, or Setting Out Engineer, if those match Michael's actual experience
-8. Automation Engineer, if his background includes controls, PLCs, process automation, instrumentation, or industrial systems
+1. Maintenance Reliability Engineer / Reliability Engineering Manager
+2. Technical Services Manager / Engineering Services Manager, where the role includes engineering delivery, maintenance systems, projects, utilities, or plant optimisation
+3. Manufacturing Excellence Manager / Continuous Improvement Manager, where the role is engineering-led and tied to process, production, quality, or planning improvement
+4. Production Engineer / Process Engineer / Manufacturing Engineer
+5. Project Engineer / Capital Projects Manager
+6. Quality Control and Planning Engineer / QA/QC Engineer / Validation Engineer
+7. Maintenance Manager / Asset Lifecycle Manager, where the job description requires engineering qualifications and technical accountability
+8. Site Manager or Operations Manager only where the employer can confirm the role maps to an eligible CSEP occupation and meets salary/qualification rules
 
-Avoid weak-fit applications such as junior technician roles, generic maintenance roles, operator roles, or jobs that do not meet CSEP salary and qualification requirements unless the employer clearly confirms permit eligibility.
+Avoid weak-fit applications such as junior technician roles, operator roles, generic supervisor roles, or maintenance roles that are not positioned as professional engineering or senior technical management. Also avoid generic "operations manager" roles unless the employer can map the position to an eligible permit category.
 
 ### Secondary target roles for Finland
 
-Use the Eaton Senior Mechanical Engineer posting as a template for search terms:
+Use the Eaton Senior Mechanical Engineer posting as a technical benchmark, but search more broadly for Michael's operations, maintenance, and manufacturing leadership strengths:
 
-- Senior Mechanical Engineer
-- Mechanical Design Engineer
-- R&D Engineer
-- Product Development Engineer
-- Power Systems Engineer
-- UPS Systems Engineer
-- Thermal Analysis Engineer
-- CAD Design Engineer
-- Manufacturing Design Engineer
-- Test and Validation Engineer
+- Maintenance Reliability Manager
+- Technical Services Manager
+- Manufacturing Excellence Manager
+- Continuous Improvement Manager
+- Production Planning Manager
+- Project Manager, Manufacturing or Engineering
+- Process Improvement Manager
+- Asset Management / Maintenance Manager
+- Senior Manufacturing Engineer
+- Senior Mechanical Engineer, if the role values maintenance, commissioning, utilities, or production support more than pure product design
 
-Eaton's Vantaa role highlights the kind of evidence Michael should show:
+Eaton's Vantaa role highlights technical evidence that may still be useful where truthful:
 
 - mechanical design of systems and accessories;
 - sheet metal, die cast, or injection mould design;
@@ -122,15 +129,37 @@ Eaton's Vantaa role highlights the kind of evidence Michael should show:
 - cross-functional support for product, sales, and technical teams;
 - strong English communication.
 
-If Michael has any of these, they should be prominent on his CV and LinkedIn profile.
+Michael should also emphasize evidence from BAT, P&G, and Plantation Industries Limited:
+
+- technical services leadership;
+- capital project delivery and stakeholder management;
+- production planning and material requirements planning;
+- SAP ERP/MRP exposure;
+- shop-floor leadership and team capability building;
+- maintenance systems, reliability-centred maintenance, and unplanned downtime reduction;
+- TPM/IWS coaching and autonomous maintenance;
+- Lean Six Sigma continuous improvement;
+- safety, quality, regulatory compliance, and remote/hybrid governance;
+- cross-functional delivery across operations, engineering, production, procurement, and leadership teams.
 
 ## 4. Positioning Michael's profile
 
-Because the LinkedIn profile could not be reliably accessed from the public fetch endpoint, the following section should be completed using Michael's actual CV and LinkedIn details.
+Based on the LinkedIn screenshots shared, Michael should be positioned as a senior manufacturing operations and maintenance leader with deep technical delivery experience, rather than as an entry-level migrant engineer.
+
+Current profile signals:
+
+- Headline: Operations & Maintenance Leader; MBA; PMP; CMRP; TPMC; SSBBC; CMS; CPMC; FIMC.
+- Current role: Technical Services Manager at Plantation Industries Limited.
+- Prior employers: BAT and Procter & Gamble.
+- Experience depth: 20+ years across manufacturing, operations, maintenance, production, technical support, commissioning, and process leadership.
+- Core value proposition: measurable results across continuous improvement, reliability, capital project execution, production planning, strategic project execution, and performance optimisation.
+- Education: International MBA in Business Administration, Operations and Strategic Management; Mini-MBA in Innovation, Growth and Operational Execution; BSc Business Administration, Management and Operations; Advanced Technician Diploma Level 5 in Mechanical Engineering; Advanced Diploma in Industrial and Production Management; Diploma in Mechanical Engineering; in-progress master's degree in Industrial Engineering.
+- Certifications and learning: PMP, CMRP, TPMC, SSBBC, CMS, CPMC, FIMC, plus recent LinkedIn learning in Agile Project Management with Jira Cloud and Project Management with monday.com.
+- Skills shown: financial analysis, detailed design, mechanical engineering, industrial safety, supervisory skills, AutoCAD, AI for leadership, material requirements planning, maintenance management, staff training, stakeholder engagement, technical support, DFM/DFMEA, and team leadership.
 
 ### Profile audit checklist
 
-Confirm and document:
+Confirm and document before submitting applications:
 
 - Engineering discipline: mechanical, electrical, civil, process, production, project, automation, quality, or another branch.
 - Highest degree, institution, graduation date, and whether the degree is directly relevant to the target role.
@@ -141,32 +170,38 @@ Confirm and document:
 - Major projects with numbers: budget, output, capacity, uptime, savings, safety records, team size, or delivery dates.
 - International exposure: remote collaboration, multinational clients, standards used, vendor coordination, offshore/onshore projects, or cross-border projects.
 - English communication evidence: reports, client presentations, technical documentation, vendor negotiations, training, or supervision.
+- Current and historic team sizes, including the 148-crew production leadership reference.
+- Capital project budgets, project counts, savings, and commissioning outcomes.
+- Reliability metrics: uptime, MTBF, MTTR, OEE, planned maintenance compliance, breakdown reduction, maintenance cost reduction, or spares optimisation.
+- SAP/MRP scope: modules used, planning responsibilities, inventory reductions, procurement support, or service-level improvements.
+- Lean/TPM/IWS achievements: kaizen events, autonomous maintenance maturity, loss reduction, line performance, or capability-building results.
+- Exact legal names and dates for certifications so they can be verified by employers.
 
 ### Recommended LinkedIn headline
 
 Use a headline that matches the target permit category and job market. Examples:
 
-- Mechanical Engineer | Product Design, Manufacturing, Maintenance Reliability | Open to Ireland CSEP and Finland Specialist Roles
-- Senior Mechanical Design Engineer | CAD, FEM, Thermal Analysis, R&D Documentation | Open to Relocation
-- Electrical/Power Systems Engineer | Industrial Projects, Commissioning, QA/QC | Open to Ireland Critical Skills Roles
-- Project Engineer | Engineering Delivery, Vendor Coordination, Technical Documentation | Open to EU Relocation
+- Operations & Maintenance Leader | Reliability, TPM/IWS, Capital Projects | Open to Ireland CSEP and Finland Specialist Roles
+- Technical Services Manager | Manufacturing Excellence, SAP/MRP, Maintenance Reliability | Open to Relocation
+- Manufacturing Operations Leader | PMP, CMRP, Lean Six Sigma, Strategic Project Execution | Ireland/Finland Ready
+- Project & Reliability Leader | FMCG Manufacturing, Plant Optimisation, Technical Services | Open to EU Relocation
 
 ### Recommended LinkedIn "About" structure
 
 Use 4 short paragraphs:
 
-1. Professional identity: engineering discipline, years of experience, industries.
-2. Technical strengths: tools, standards, project types, systems handled.
-3. Measurable outcomes: cost reduction, uptime, safety, delivery, quality, team leadership.
+1. Professional identity: operations, maintenance, manufacturing, and technical services leader with 20+ years of experience.
+2. Technical strengths: reliability, TPM/IWS, Lean Six Sigma, SAP/MRP, production planning, project execution, compliance, and team leadership.
+3. Measurable outcomes: cost reduction, uptime, OEE, safety, delivery, quality, project execution, and capability building.
 4. Mobility statement: open to Ireland Critical Skills and Finland specialist roles, available from Nigeria, documentation ready.
 
 Example:
 
-> I am a [discipline] engineer with [number]+ years of experience across [industries]. My work focuses on [design/project delivery/maintenance/process improvement/quality/commissioning] for [systems or assets].
+> I am an operations, maintenance, and technical services leader with 20+ years of experience across manufacturing and industrial operations. My work focuses on reliability, continuous improvement, production planning, capital project execution, and plant performance optimisation.
 >
-> I bring hands-on experience in [tools], technical documentation, vendor coordination, and cross-functional engineering support. I am strongest in roles that require practical problem solving, safe delivery, and clear communication between engineering, operations, and management teams.
+> I bring hands-on leadership across SAP/MRP, TPM/IWS, Lean Six Sigma, reliability-centred maintenance, shop-floor capability building, stakeholder coordination, and strategic project execution. I am strongest in roles that require technical credibility, operational discipline, and measurable performance gains.
 >
-> Recent achievements include [measurable result 1], [measurable result 2], and [project scope/result 3].
+> My background includes leadership roles with Plantation Industries Limited, BAT, and Procter & Gamble, covering technical services, production leadership, autonomous maintenance, commissioning support, process/team leadership, and mechanical systems inspection.
 >
 > I am based in Nigeria and open to relocation for eligible engineering roles in Ireland under the Critical Skills Employment Permit route and in Finland under specialist work-permit pathways.
 
@@ -179,9 +214,9 @@ Use a 2-page European-style CV, not a long biography.
 Recommended sections:
 
 1. Name, city/country, phone, email, LinkedIn, portfolio link if available.
-2. Target title: "Mechanical Engineer - Open to Ireland Critical Skills Employment Permit Roles".
+2. Target title: "Technical Services / Reliability / Manufacturing Operations Leader - Open to Ireland CSEP and Finland Specialist Roles".
 3. Professional summary: 4 lines maximum.
-4. Core engineering skills: grouped by discipline.
+4. Core engineering, maintenance, project, and operations skills grouped by discipline.
 5. Professional experience: reverse chronological, achievement bullets.
 6. Selected projects: 3-5 quantified projects.
 7. Education and certifications.
@@ -219,6 +254,14 @@ Process/manufacturing:
 
 - process optimization, production engineering, root cause analysis, lean manufacturing, quality control, validation, CAPA, GMP, SOPs, process automation, throughput improvement, OEE.
 
+Operations, maintenance, and reliability:
+
+- technical services management, maintenance reliability, reliability-centred maintenance, asset lifecycle management, TPM, IWS, autonomous maintenance, planned maintenance, predictive maintenance, MTBF, MTTR, downtime reduction, spares optimisation, utilities, commissioning support.
+
+Project and planning:
+
+- PMP, capital projects, stakeholder management, risk management, budget management, scheduling, SAP ERP, material requirements planning, production planning, procurement coordination, vendor management, project governance, remote compliance monitoring.
+
 ## 6. Job-search channels
 
 ### Ireland channels
@@ -227,9 +270,9 @@ Use these first:
 
 - IrishJobs.ie
 - Jobs.ie
-- LinkedIn Jobs with location Ireland and keywords "Critical Skills", "visa sponsorship", "relocation", "international candidates", "mechanical engineer", "project engineer", "validation engineer".
+- LinkedIn Jobs with location Ireland and keywords "Critical Skills", "visa sponsorship", "relocation", "international candidates", "maintenance reliability", "technical services manager", "manufacturing excellence", "project engineer", "production engineer", "process engineer", "planning engineer", and "validation engineer".
 - Engineers Ireland Jobs Desk, because it targets the engineering profession and reaches a large engineering audience.
-- Company career pages for multinationals in Ireland: Siemens, Eaton, Jacobs, Arup, PM Group, Sisk, Mercury, Jones Engineering, Intel, Pfizer, Boston Scientific, Johnson & Johnson, Medtronic, Schneider Electric, ESB, Kirby Group, and similar engineering employers.
+- Company career pages for multinationals in Ireland: Siemens, Eaton, Jacobs, Arup, PM Group, Sisk, Mercury, Jones Engineering, Intel, Pfizer, Boston Scientific, Johnson & Johnson, Medtronic, Schneider Electric, ESB, Kirby Group, Diageo, Kerry Group, Glanbia/Tirlan, and similar engineering, FMCG, pharma, utilities, and manufacturing employers.
 - Specialist recruiters: engineering, construction, pharma, data centre, renewable energy, manufacturing, and validation recruitment firms.
 
 ### Finland/Helsinki channels
@@ -472,16 +515,17 @@ Start with:
 
 ## 14. Recommended immediate next steps
 
-1. Export Michael's LinkedIn profile and current CV.
-2. Fill the profile audit checklist in section 4.
-3. Choose one primary target title and two secondary target titles.
-4. Rewrite the CV summary and LinkedIn headline to match the target title.
-5. Build a one-page project portfolio with 3 strongest engineering achievements.
-6. Create the job-search spreadsheet.
-7. Apply to Ireland CSEP-fit roles first, then Finland specialist roles.
-8. Send recruiter/hiring-manager messages for every high-fit application.
-9. Prepare document scans before interviews progress to offer stage.
-10. Verify every offer against the immigration checklist before accepting.
+1. Convert the LinkedIn screenshots into a quantified master CV, with separate sections for Plantation Industries Limited, BAT, P&G, JOA Technology, and Marine and Engineering Supports Limited.
+2. Build a one-page evidence bank for reliability, TPM/IWS, SAP/MRP, capital projects, production leadership, and continuous improvement achievements.
+3. Confirm qualification positioning for Ireland: decide whether to lead with technical diplomas plus experience, MBA/operations leadership, or wait for the in-progress industrial engineering master's to strengthen engineering-degree alignment.
+4. Choose one primary target title and two secondary target titles. Recommended primary title: Technical Services / Reliability / Manufacturing Operations Leader.
+5. Rewrite the CV summary and LinkedIn headline to match that target title.
+6. Create a project portfolio with 3-5 strongest achievements, including problem, action, tools, team size, metrics, and result.
+7. Build the job-search spreadsheet.
+8. Apply to Ireland roles first where the employer can map the role to CSEP, then Finland specialist roles with the EUR 3,937 monthly salary threshold.
+9. Send recruiter/hiring-manager messages for every high-fit application.
+10. Prepare document scans before interviews progress to offer stage.
+11. Verify every offer against the immigration checklist before accepting.
 
 ## 15. Source list
 
