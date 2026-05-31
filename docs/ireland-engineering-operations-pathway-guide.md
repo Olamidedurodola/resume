@@ -297,7 +297,52 @@ Apply only when most of these are true:
 - The role requires a degree or specialist technical expertise.
 - The employer can wait for relocation/permit processing.
 
-## 7. Outreach scripts
+
+## 7. Current application links
+
+> Live job postings can expire quickly. If a direct posting has closed, use the same title, company, and keywords on the employer's career site or LinkedIn. Prioritise roles that can map to Ireland CSEP categories such as production/process engineering, project engineering, quality/planning engineering, mechanical/reliability engineering, technical services, validation, or manufacturing engineering.
+
+### Strong direct role links
+
+| Fit | Role link | Why it is relevant |
+| --- | --- | --- |
+| Very high | [Abbott - Manufacturing Engineering / Maintenance / Facility Control](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/Manufacturing-Engineering---Maintenance---Facility-Control_31142513) | Maintenance, reliability, facilities, manufacturing engineering and plant support in a large Ireland employer. |
+| Very high | [J&J / Janssen - Reliability Engineer](https://jnj.talent-pool.com/projects/reliability-engineer/68583) | Reliability engineering, RCM/FMECA, maintenance documentation, condition monitoring, GMP and EHS. |
+| Very high | [Team Horizon - Reliability Engineer, Mayo](https://www.teamhorizon.ie/job-search/1788-reliability-engineer/engineering/mayo/job) | Maintenance Excellence Program, RCA, preventive maintenance optimisation, predictive maintenance and OEE. |
+| High | [Amgen Ireland - Sr. Engineer, Process & Equipment](https://careers.amgen.com/en/job/dun-laoghaire/sr-engineer-process-and-equipment/87/94851422832) | Equipment reliability, maintenance schedules, spare parts, process equipment and regulated manufacturing. |
+| High | [Prochem - Process Engineer, Product Supply, Waterford](https://www.prochem.ie/job/process-engineer-product-supply/) | Process/equipment failures, OEE improvement, capacity expansion, maintenance planning and GMP support. |
+| Medium-high | [AbbVie - Manufacturing Engineer, Cork](https://www.ziprecruiter.ie/jobs/534528258-manufacturing-engineer-12-month-ftc-at-abbvie) | Production planning, SAP administration, KPIs, Lean Six Sigma and manufacturing coordination. |
+| Medium-high | [Haleon / Dungarvan - Reliability Engineer repost](https://www.jobijoba.ie/job/16/0c53e6a0bc857530ced2ed658b6ffbad) | Reliability projects, preventive/predictive maintenance, equipment data analysis and team guidance. |
+
+### Durable Ireland searches to keep running weekly
+
+- [LinkedIn - Maintenance Reliability Engineer, Ireland](https://www.linkedin.com/jobs/search/?keywords=Maintenance%20Reliability%20Engineer&location=Ireland)
+- [LinkedIn - Technical Services Manager, Ireland](https://www.linkedin.com/jobs/search/?keywords=Technical%20Services%20Manager%20Manufacturing&location=Ireland)
+- [LinkedIn - Manufacturing Excellence / Operational Excellence, Ireland](https://www.linkedin.com/jobs/search/?keywords=Manufacturing%20Excellence%20Operational%20Excellence&location=Ireland)
+- [LinkedIn - SAP PM / SAP MRP Manufacturing, Ireland](https://www.linkedin.com/jobs/search/?keywords=SAP%20PM%20MRP%20Manufacturing&location=Ireland)
+- [IrishJobs - Reliability Engineer roles](https://www.irishjobs.ie/jobs/reliability-engineer/in-ireland)
+- [IrishJobs - Maintenance Manager roles](https://www.irishjobs.ie/jobs/maintenance-manager/in-ireland)
+- [IrishJobs - Process Engineer roles](https://www.irishjobs.ie/jobs/process-engineer/in-ireland)
+- [Engineers Ireland Jobs Desk](https://www.engineersireland.ie/Professionals/Careers/Jobs-Desk)
+- [Team Horizon Engineering jobs](https://www.teamhorizon.ie/job-search/browse/engineering/jobs)
+- [Life Science Recruitment Ireland](https://www.lifescience.ie/)
+
+### Employer career pages to monitor
+
+- [Abbott careers](https://www.jobs.abbott/)
+- [Johnson & Johnson careers](https://jobs.jnj.com/)
+- [Amgen careers](https://careers.amgen.com/)
+- [AbbVie careers](https://careers.abbvie.com/)
+- [Pfizer careers](https://www.pfizer.com/about/careers)
+- [MSD Ireland careers](https://www.msdireland.com/careers/)
+- [Boston Scientific careers](https://jobs.bostonscientific.com/)
+- [Medtronic careers](https://medtronic.eightfold.ai/careers)
+- [Stryker careers](https://careers.stryker.com/)
+- [Eli Lilly careers](https://careers.lilly.com/)
+- [Regeneron careers](https://careers.regeneron.com/)
+- [Kerry Group careers](https://jobs.kerry.com/)
+
+## 8. Outreach scripts
 
 ### LinkedIn message to recruiter
 
@@ -335,7 +380,7 @@ Use a clear answer:
 
 Do not write "I need sponsorship urgently" or "I can work anywhere immediately" if that is not true.
 
-## 8. Documents to prepare from Nigeria
+## 9. Documents to prepare from Nigeria
 
 Prepare clean PDF scans and keep file names professional.
 
@@ -366,7 +411,7 @@ Project portfolio structure:
 6. Result with metrics.
 7. Photos/diagrams only if permitted.
 
-## 9. Interview preparation
+## 10. Interview preparation
 
 ### Technical stories to prepare
 
@@ -395,7 +440,7 @@ Use mature, practical questions:
 - Is English sufficient for the role and internal documentation?
 - Does the role involve site work, travel, shifts, or on-call support?
 
-## 10. Offer and permit checklist
+## 11. Offer and permit checklist
 
 Before accepting an offer, confirm:
 
@@ -431,7 +476,7 @@ For Finland specialist:
 - Prove identity at the appropriate service point.
 - Consider D visa if eligible and useful for faster travel after permit approval.
 
-## 11. Red flags and scams
+## 12. Red flags and scams
 
 Avoid:
 
@@ -444,7 +489,7 @@ Avoid:
 - Requests for passport originals by courier before a verified official process.
 - Employers unwilling to put salary, contract duration, and job duties in writing.
 
-## 12. Weekly operating system for the job search
+## 13. Weekly operating system for the job search
 
 Run the job search like a sales pipeline:
 
@@ -473,7 +518,7 @@ Use a spreadsheet with columns:
 - Status
 - Notes
 
-## 13. Priority employer list
+## 14. Priority employer list
 
 ### Ireland
 
@@ -514,7 +559,7 @@ Start with:
 - Vaisala
 - Helsinki-area manufacturing, energy, and R&D employers
 
-## 14. Recommended immediate next steps
+## 15. Recommended immediate next steps
 
 1. Convert the source profile details into a quantified master CV, with separate sections for each employer while using anonymized company labels in public-facing drafts if privacy is required.
 2. Build a one-page evidence bank for reliability, TPM/IWS, SAP/MRP, capital projects, production leadership, and continuous improvement achievements.
@@ -528,7 +573,7 @@ Start with:
 10. Prepare document scans before interviews progress to offer stage.
 11. Verify every offer against the immigration checklist before accepting.
 
-## 15. Source list
+## 16. Source list
 
 - Ireland official Critical Skills Occupations List: https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/employment-permit-eligibility/highly-skilled-eligible-occupations-list/
 - Ireland official Critical Skills Employment Permit guidance: https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/permit-types/critical-skills-employment-permit/

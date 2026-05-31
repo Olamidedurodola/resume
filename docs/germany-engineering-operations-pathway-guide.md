@@ -462,7 +462,52 @@ Prioritise companies with international manufacturing environments:
 - Amazon Reliability Maintenance Engineering, DHL, DB Schenker, and other automated logistics operations.
 - Data-centre and critical facilities operators if the candidate can show utilities, reliability, safety, and technical operations experience.
 
-## 10. Application strategy
+
+## 10. Current application links
+
+> Live job postings can expire quickly. If a direct posting has closed, search the same title on the employer career site and LinkedIn. For this candidate, prioritise jobs above the relevant salary thresholds and roles that can map to manufacturing management, industrial/production engineering, maintenance/reliability, SAP manufacturing transformation, or qualified professional routes.
+
+### Strong direct role links
+
+| Fit | Role link | Why it is relevant |
+| --- | --- | --- |
+| Very high | [Doehler Group - Global Maintenance Manager, Darmstadt](https://jobs.doehler.com/job/Darmstadt-Global-Maintenance-Manager-%28mfd%29/1255619901/) | Global maintenance strategy, SAP procedures/KPIs, plant assessments, reliability, maintenance leaders and English. |
+| Very high | [Siemens Energy - S/4HANA PP/QM Consultant & Transformation Lead](https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/S-4HANA-PP-QM-Consultant-Transformation-Lead-m-f-d/292084) | Global manufacturing SAP transformation across PP, QM, PM and EHS; strong fit for SAP/manufacturing leadership. |
+| Very high | [Siemens Energy - S/4 HANA Manufacturing & Quality Process Lead](https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/S-4-HANA-Manufacturing-Quality-Process-Lead-f-m-d/287476) | Manufacturing and quality process harmonisation across production sites; fit for process improvement and SAP/MES. |
+| High | [Siemens Energy - SAP PP/DS Project Manager, Production Planning](https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/SAP-PP-DS-Project-Manager-Production-Planning-w-m-d/290569) | Production planning, SAP PP/DS, implementation partners, process leadership and global plant support. |
+| High | [Deloitte Germany - Senior Manager SAP S/4HANA Plant Maintenance](https://job.deloitte.com/job-senior-manager-sap-s4hana-plant-maintenance-mwd-_49940) | SAP PM/EAM, maintenance/MRO process transformation and international project leadership; German likely required. |
+| High | [BA Business Advice - SAP Senior PM/EAM Consultant](https://www.ba-gmbh.com/joboffer/sap-senior-pm-consultant-plant-maintenance-enterprise-asset-management-m-w-d/) | SAP maintenance management, predictive maintenance, E2E maintenance processes and PM/PP/QM integration. |
+| Medium-high | [Takeda - Operational Excellence Lead, based in Germany](https://jobs.takeda.com/job/bukowno-warszawa/r0171904-operational-excellence-lead-f-m-d-based-in-germany/1113/95073298544) | Lean transformation, site business excellence and operational improvement in pharma manufacturing. |
+
+### Durable Germany searches to keep running weekly
+
+- [LinkedIn - Maintenance Reliability Manager, Germany](https://www.linkedin.com/jobs/search/?keywords=Maintenance%20Reliability%20Manager&location=Germany)
+- [LinkedIn - Manufacturing Excellence Manager, Germany](https://www.linkedin.com/jobs/search/?keywords=Manufacturing%20Excellence%20Manager&location=Germany)
+- [LinkedIn - SAP PM / EAM, Germany](https://www.linkedin.com/jobs/search/?keywords=SAP%20PM%20EAM&location=Germany)
+- [LinkedIn - Production Manager, Germany](https://www.linkedin.com/jobs/search/?keywords=Production%20Manager&location=Germany)
+- [StepStone - Leiter Instandhaltung](https://www.stepstone.de/jobs/leiter-instandhaltung)
+- [StepStone - Reliability Manager](https://www.stepstone.de/jobs/reliability-manager)
+- [StepStone - SAP PM](https://www.stepstone.de/jobs/sap-pm)
+- [DEVjobs - SAP PM/EAM Germany](https://en.devjobs.de/jobs/sap-pm-eam)
+- [DSJ Global - Manufacturing jobs in Germany](https://www.dsjglobal.com/en-us/jobs/f-manufacturing/lc-germany)
+- [Make it in Germany job listings](https://www.make-it-in-germany.com/en/working-in-germany/job-listings)
+
+### Employer career pages to monitor
+
+- [Siemens Energy careers](https://jobs.siemens-energy.com/)
+- [Siemens careers](https://jobs.siemens.com/)
+- [Bosch careers](https://www.bosch.com/careers/)
+- [BASF careers](https://www.basf.com/global/en/careers)
+- [Bayer careers](https://career.bayer.com/)
+- [Merck KGaA careers](https://www.emdgroup.com/en/careers.html)
+- [Boehringer Ingelheim careers](https://careers.boehringer-ingelheim.com/)
+- [Takeda careers](https://jobs.takeda.com/)
+- [Doehler careers](https://jobs.doehler.com/)
+- [Krones careers](https://www.krones.com/en/company/career.php)
+- [GEA careers](https://www.gea.com/en/company/careers/)
+- [Amazon Germany operations/RME careers](https://www.amazon.jobs/en/teams/maintenance-reliability-engineering)
+
+## 11. Application strategy
 
 ### Best route first
 
@@ -490,7 +535,7 @@ Avoid:
 - roles below salary threshold;
 - contractor offers without clear employment, visa, salary, and job-description documents.
 
-## 11. Recruiter and employer outreach
+## 12. Recruiter and employer outreach
 
 ### Recruiter message
 
@@ -518,7 +563,7 @@ I am based in Nigeria and open to relocating to Germany. I am preparing the qual
 Kind regards,
 [Candidate name]
 
-## 12. Documents to prepare
+## 13. Documents to prepare
 
 Core documents:
 
@@ -549,7 +594,7 @@ Achievement portfolio:
 - Capital project summary.
 - Team leadership/capability-building evidence.
 
-## 13. Interview preparation
+## 14. Interview preparation
 
 Prepare stories around:
 
@@ -576,7 +621,7 @@ Germany interview questions to prepare:
 - What visa route do you expect to use?
 - Is your degree recognised in Germany or have you started Anabin/ZAB checks?
 
-## 14. Offer and visa checklist
+## 15. Offer and visa checklist
 
 Before accepting a German offer, confirm:
 
@@ -618,7 +663,7 @@ For recognition partnership:
 - employer is suitable and willing to support recognition;
 - qualified job offer is clear.
 
-## 15. Practical action plan
+## 16. Practical action plan
 
 1. Build a Germany-specific CV and one-page skills profile.
 2. Start Anabin checks for all academic degrees.
@@ -633,7 +678,7 @@ For recognition partnership:
 11. Prepare visa documents before interviews reach offer stage.
 12. Before accepting any offer, test it against Blue Card, qualified professional, practical knowledge, or recognition partnership requirements.
 
-## 16. Source list
+## 17. Source list
 
 - Make it in Germany, EU Blue Card: https://www.make-it-in-germany.com/en/visa-residence/types/eu-blue-card
 - Make it in Germany, Work visa for qualified professionals: https://www.make-it-in-germany.com/en/visa-residence/types/work-qualified-professionals

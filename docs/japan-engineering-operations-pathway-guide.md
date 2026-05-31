@@ -563,7 +563,56 @@ Japanese:
 
 Use both English and Japanese text in searches. Many Japanese job listings will mix English acronyms like TPM, SAP, CMMS, GMP, PM, and CAPEX with Japanese descriptions.
 
-## 9. Application strategy
+
+## 9. Current application links
+
+> Live job postings can expire quickly. If a direct posting has closed, use the job title and employer career site to find the replacement. For Japan, prioritise sponsor-capable employers, foreign-affiliated companies, and roles where English/global manufacturing experience is valued while the candidate builds Japanese.
+
+### Strong direct role links
+
+| Fit | Role link | Why it is relevant |
+| --- | --- | --- |
+| Very high | [Takeda - Operational Excellence Champion, Osaka Plant](https://jobs.takeda.com/job/juso-honmachi/operational-excellence-champion-osaka-plant/1113/92454565216) | Plant operational excellence, Lean/CI, project management, technical services/manufacturing and English. |
+| Very high | [Takeda - Operational Excellence Lead, Narita Site](https://jobs.takeda.com/job/chiba/operational-excellence-lead-narita-site/1113/89935566704) | Leads OE champions, AGILE waves, Lean/Six Sigma and manufacturing plant improvement. |
+| High | [Takeda - CMMS Administrator, Maintenance & Reliability, Hikari Site](https://jobs.takeda.com/job/hikari/cmms-administrator-maintenance-and-reliability-hikari-site/1113/67365173440) | Maintenance reliability, SAP/CMMS, manufacturing facilities, training and maintenance workflow. |
+| High | [Takeda Workday apply - CMMS Administrator, Hikari](https://takeda.wd3.myworkdayjobs.com/External/job/Hikari-Japan/CMMS-Administrator--Maintenance---Reliability--Hikari-Site-----_R0126654/apply) | Direct apply link for the Takeda CMMS maintenance/reliability role. |
+| High | [Takeda - Senior Validation SME / Commissioning & Qualification, Hikari](https://jobs.takeda.com/job/hikari/senior-validation-sme-commissioning-and-qualification-manager-or-specialist-engineering-hikari-site/1113/90615720944) | C&Q, validation, engineering documentation, regulated manufacturing and project coordination. |
+| High | [Takeda - Site Engineering Services Associate Director / Manager, Narita](http://jobs.takeda.com/job/narita/site-engineering-services-associate-director-manager/1113/92968321184) | Site engineering services, validation maintenance, cGMP, utilities/systems and cross-functional project management. |
+| Medium-high | [Next Ventures - SAP PP/QM Consultant, Tokyo hybrid](https://next-ventures.com/jobs/sap-pp-qm-consultant/) | SAP PP/QM, manufacturing process optimisation, business-process workshops and transformation. |
+| Medium-high | [Daijob - IT System Operations Team Leader, Manufacturing, Kobe](https://www.daijob.com/en/jobs/detail/1525095) | Manufacturing shop-floor systems, team leadership and English-speaking support team. |
+| Medium-high | [Planet Pharma - Automation Architect Lead, Japan](https://www.pharmiweb.jobs/job/2145220/automation-architect-lead-/) | Pharma greenfield manufacturing, automation, utilities, GMP, MES/OT integration and stakeholder leadership. |
+| Medium-high | [Amgen - Contract Development and Manufacturing Senior Manager, Tokyo](https://careers.amgen.com/en/job/tokyo/contract-development-and-manufacturing-senior-manager/87/89819920688) | Manufacturing project leadership, cGMP, supply chain and external manufacturing management. |
+| Medium-high | [PharmiWeb - CQV Manager, Japan](https://www.pharmiweb.jobs/job/2149686/cqv-manager/) | CQV strategy, GMP, engineering/project interfaces and commissioning/validation leadership. |
+
+### Durable Japan searches to keep running weekly
+
+- [LinkedIn - Maintenance Reliability Manager, Japan](https://www.linkedin.com/jobs/search/?keywords=Maintenance%20Reliability%20Manager&location=Japan)
+- [LinkedIn - Operational Excellence Manager, Japan](https://www.linkedin.com/jobs/search/?keywords=Operational%20Excellence%20Manager&location=Japan)
+- [LinkedIn - SAP PP PM Manufacturing, Japan](https://www.linkedin.com/jobs/search/?keywords=SAP%20PP%20PM%20Manufacturing&location=Japan)
+- [LinkedIn - Plant Engineering Manager, Japan](https://www.linkedin.com/jobs/search/?keywords=Plant%20Engineering%20Manager&location=Japan)
+- [Daijob - Manufacturing / operations roles](https://www.daijob.com/en/jobs/search_result)
+- [CareerCross - Manufacturing jobs](https://www.careercross.com/en/job-search/category-5000)
+- [Robert Walters Japan - Engineering & Manufacturing](https://www.robertwalters.co.jp/en/expertise/engineering-and-manufacturing.html)
+- [JAC Recruitment Japan](https://www.jac-recruitment.jp/)
+- [Hays Japan jobs](https://www.hays.co.jp/en/jobs)
+- [en world Japan jobs](https://www.enworld.com/en/jobs)
+
+### Employer career pages to monitor
+
+- [Takeda careers](https://jobs.takeda.com/)
+- [Astellas careers](https://www.astellas.com/en/careers)
+- [Chugai careers](https://www.chugai-pharm.co.jp/english/careers/)
+- [Daiichi Sankyo careers](https://www.daiichisankyo.com/careers/)
+- [Amgen careers](https://careers.amgen.com/)
+- [Johnson & Johnson careers Japan/global](https://jobs.jnj.com/)
+- [Thermo Fisher Scientific careers](https://jobs.thermofisher.com/global/en)
+- [Tokyo Electron careers](https://www.tel.com/careers/)
+- [Renesas careers](https://jobs.renesas.com/)
+- [Kioxia careers](https://www.kioxia.com/en-jp/about/careers.html)
+- [Sony Semiconductor Solutions careers](https://www.sony-semicon.com/en/jobs/)
+- [Amazon Japan operations/RME careers](https://www.amazon.jobs/en/teams/maintenance-reliability-engineering)
+
+## 10. Application strategy
 
 ### Best route first
 
@@ -595,7 +644,7 @@ Avoid roles where:
 - the listing says visa sponsorship is unavailable;
 - job title is management but duties are mostly routine supervision without specialised knowledge.
 
-## 10. CV and profile strategy for Japan
+## 11. CV and profile strategy for Japan
 
 ### CV structure
 
@@ -652,7 +701,7 @@ Use:
 
 > Nigerian citizen. Requires Japan employer sponsorship and Certificate of Eligibility for a work status such as Engineer/Specialist in Humanities/International Services or Highly Skilled Professional, depending on job duties, salary, and points assessment. Documentation can be prepared promptly.
 
-## 11. Outreach scripts
+## 12. Outreach scripts
 
 ### Recruiter message
 
@@ -680,7 +729,7 @@ I am based in Nigeria and open to relocating to Japan. I understand Japan work v
 Kind regards,
 [Candidate name]
 
-## 12. Documents to prepare
+## 13. Documents to prepare
 
 Core documents:
 
@@ -712,7 +761,7 @@ For COE support:
 - salary and working-condition details;
 - HSP/J-SKIP proof documents where relevant.
 
-## 13. Interview preparation
+## 14. Interview preparation
 
 Prepare stories around:
 
@@ -741,7 +790,7 @@ Likely Japan interview questions:
 - How do you lead teams in high-discipline manufacturing environments?
 - Are you willing to relocate outside Tokyo to a plant location?
 
-## 14. Offer and COE checklist
+## 15. Offer and COE checklist
 
 Before accepting:
 
@@ -784,7 +833,7 @@ For J-SKIP:
 - 5+ years management experience is documented for business/management;
 - employer understands this is a high-threshold route.
 
-## 15. Practical action plan
+## 16. Practical action plan
 
 1. Decide target route order: Engineer/Specialist first, HSP upgrade second, J-SKIP only for very senior high-salary offers.
 2. Build a Japan-specific English CV.
@@ -799,7 +848,7 @@ For J-SKIP:
 11. After COE issuance, apply through JVAC Abuja or Lagos under the COE work/long-stay category.
 12. After visa issuance, plan arrival, residence card, municipal registration, housing, bank, phone, health insurance, and family timing.
 
-## 16. Source list
+## 17. Source list
 
 - Immigration Services Agency of Japan, Engineer / Specialist in Humanities / International Services: https://www.moj.go.jp/isa/applications/status/gijinkoku.html?hl=en
 - Immigration Services Agency of Japan, Certificate of Eligibility: https://www.moj.go.jp/isa/applications/procedures/16-1.html?hl=en
