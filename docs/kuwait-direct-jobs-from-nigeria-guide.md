@@ -640,15 +640,23 @@ Important:
 
 You may need a police character certificate/report.
 
+Official Nigeria Police POSSAP portal:
+
+- https://www.possap.gov.ng
+
 Practical steps:
 
-1. Apply through the appropriate Nigeria Police process.
-2. Complete biometrics/capture if required.
-3. Collect the police report/certificate.
-4. Authenticate or stamp it where required, such as Ministry of Foreign Affairs or other required authority, depending on current embassy instruction.
-5. Keep original and copies.
+1. Apply for Police Character Certificate/Police Clearance through POSSAP.
+2. Complete the online application and payment.
+3. Select the physical police branch/location for biometric capture.
+4. Wait for online verification/processing instructions.
+5. Go to the physical branch you selected for capturing.
+6. Complete biometric capture and any required in-person verification.
+7. Collect or receive the police character report/certificate as instructed.
+8. Authenticate or stamp it where required, such as Ministry of Foreign Affairs or other required authority, depending on current Kuwait Embassy instruction.
+9. Keep original and copies.
 
-Do this early because police reports and authentication can delay the process.
+Do this early because police reports, capture appointments, and authentication can delay the process.
 
 ## 18. Embassy stamping in Abuja
 
