@@ -36,21 +36,7 @@ Practical timeline note:
 - Nigeria-side processing may take around one month after the employer sends the visa paperwork, if documents are complete and medical/embassy appointments move smoothly.
 - After arrival in Kuwait, the worker may undergo another medical and residence process. Some workers may wait weeks or up to about three months before fully starting work, depending on employer onboarding, medical results, Civil ID/residence processing, and company deployment schedules.
 
-## 2. What the Facebook reel confirms
-
-The Facebook reel page is accessible enough to show the topic: applying for Kuwait sponsorship visa online. The user-provided method is:
-
-- search jobs on `1kuwaitjobs.com`;
-- open job posts;
-- collect the WhatsApp or phone number from the job post;
-- add Kuwait country code where needed;
-- message the recruiter/HR manager directly;
-- send resume/CV;
-- avoid paying agents large sums.
-
-This guide expands that method into a safer end-to-end process.
-
-## 3. Important warning: direct does not mean careless
+## 2. Important warning: direct does not mean careless
 
 Direct application is good because it avoids exploitative agents. But Kuwait job classifieds can still contain fake recruiters, middlemen, duplicate posts, and scammers.
 
@@ -75,7 +61,7 @@ Be careful even when a recruiter uses WhatsApp. WhatsApp is common in the Gulf, 
 - PDF visa/work entry document later in the process;
 - employer that can be independently searched online.
 
-## 4. Best websites for direct Kuwait job search
+## 3. Best websites for direct Kuwait job search
 
 ### Core site from the video
 
@@ -112,7 +98,7 @@ Use these for more legitimate direct applications:
 - Marriott Kuwait jobs: https://careers.marriott.com/
 - Talabat careers: https://www.talabat.com/careers
 
-## 5. Best job categories for Nigerians applying directly
+## 4. Best job categories for Nigerians applying directly
 
 The easiest categories to find on classifieds and WhatsApp recruiter posts are usually:
 
@@ -160,7 +146,7 @@ More professional roles may be better through LinkedIn, Bayt, GulfTalent, compan
 - IT support;
 - admin officer.
 
-## 6. How to search 1KuwaitJobs properly
+## 5. How to search 1KuwaitJobs properly
 
 ### Search terms
 
@@ -232,7 +218,7 @@ Bad signs:
 - recruiter cannot explain job duties;
 - pressure tactics like "only 2 slots left."
 
-## 7. Kuwait phone and WhatsApp method
+## 6. Kuwait phone and WhatsApp method
 
 Kuwait country code is:
 
@@ -247,7 +233,7 @@ Examples:
 
 If the number already starts with `+965`, do not add it again.
 
-## 8. WhatsApp message templates
+## 7. WhatsApp message templates
 
 ### First message to recruiter/HR
 
@@ -347,7 +333,7 @@ When the Kuwait work entry visa is ready, please send the official **PDF copy** 
 
 Please do not send only a screenshot or photo. I will need the PDF for embassy and medical processing in Nigeria.
 
-## 9. Email templates
+## 8. Email templates
 
 ### Email application
 
@@ -381,7 +367,7 @@ I remain interested in the role and would be grateful for the opportunity to int
 Kind regards,
 [Full name]
 
-## 10. Simple Kuwait resume template
+## 9. Simple Kuwait resume template
 
 Use a one-page or two-page CV. Save as PDF.
 
@@ -435,7 +421,7 @@ REFERENCES
 Available on request
 ```
 
-## 11. CV tips by job type
+## 10. CV tips by job type
 
 ### Cleaner / Housekeeper
 
@@ -510,7 +496,7 @@ Highlight:
 - emergency response;
 - infection control.
 
-## 12. Verification checklist before trusting a Kuwait job
+## 11. Verification checklist before trusting a Kuwait job
 
 Before sending sensitive documents:
 
@@ -537,7 +523,7 @@ Never send:
 - family documents unless required after verified offer;
 - high-resolution ID documents to unverified contacts.
 
-## 13. Offer letter checklist
+## 12. Offer letter checklist
 
 A real offer should show:
 
@@ -563,7 +549,7 @@ A real offer should show:
 
 Ask questions if the offer is unclear.
 
-## 14. After offer: Kuwait work visa sequence
+## 13. After offer: Kuwait work visa sequence
 
 The employer normally handles Kuwait-side sponsorship.
 
@@ -581,7 +567,7 @@ Important:
 - Save the PDF in email, phone, cloud storage, and print copies.
 - Check name, passport number, employer name, and visa details.
 
-## 15. Nigeria-side process after receiving Kuwait e-visa PDF
+## 14. Nigeria-side process after receiving Kuwait e-visa PDF
 
 Based on the process shared by the user and common Kuwait work visa practice, the Nigeria-side steps may include:
 
@@ -598,7 +584,7 @@ Based on the process shared by the user and common Kuwait work visa practice, th
 
 Because embassy procedures can change, confirm document list before spending money.
 
-## 16. Wafid medical appointment
+## 15. Wafid medical appointment
 
 Official Wafid links:
 
@@ -636,7 +622,7 @@ Important:
 - Medical report validity is limited; many public guides cite around 60 days for Kuwait work visa medicals, but always follow the validity shown on your official report.
 - If medical expires before stamping/travel, you may need to repeat it.
 
-## 17. Police report / police character certificate
+## 16. Police report / police character certificate
 
 You may need a police character certificate/report.
 
@@ -658,7 +644,7 @@ Practical steps:
 
 Do this early because police reports, capture appointments, and authentication can delay the process.
 
-## 18. Embassy stamping in Abuja
+## 17. Embassy stamping in Abuja
 
 The Kuwait Embassy in Nigeria is commonly referenced as being in Abuja. Public sources list:
 
@@ -690,7 +676,7 @@ Likely documents may include:
 
 The embassy or its process may call/contact the applicant when the passport is ready.
 
-## 19. Estimated cost and timeline
+## 18. Estimated cost and timeline
 
 User-provided practical estimate as at 31 May 2026:
 
@@ -714,7 +700,7 @@ Timeline:
 - Nigeria-side medical/police/embassy: can take around one month if smooth.
 - Post-arrival Kuwait medical/residence/work start: can take weeks and may take up to around three months in some cases.
 
-## 20. After arrival in Kuwait
+## 19. After arrival in Kuwait
 
 After reaching Kuwait:
 
@@ -735,37 +721,7 @@ Important:
 - Ask whether salary starts from arrival, training, or work deployment.
 - Keep records of all signed documents.
 
-## 21. Common scams and how to avoid them
-
-### Scam: "Pay now for visa"
-
-Real employer should handle visa sponsorship. Be suspicious of any personal payment request.
-
-### Scam: "No interview needed"
-
-Real employers usually interview.
-
-### Scam: "Screenshot visa"
-
-Ask for PDF. Verify details.
-
-### Scam: fake company
-
-Search company online. Ask for website and official email.
-
-### Scam: fake Wafid agent
-
-Use official Wafid site.
-
-### Scam: salary too high
-
-If the salary is far above market for a low-skill role, verify carefully.
-
-### Scam: passport seizure before travel
-
-Do not send original passport to unknown agents.
-
-## 22. Daily application routine
+## 20. Daily application routine
 
 Spend 2 hours daily:
 
@@ -781,7 +737,7 @@ Use a tracker:
 | Date | Website | Company | Job title | Contact | WhatsApp sent | CV sent | Reply | Interview | Offer | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
-## 23. Questions to ask before accepting
+## 21. Questions to ask before accepting
 
 Ask:
 
@@ -804,7 +760,7 @@ Ask:
 - Who will receive me at airport?
 - How long before I start work after arrival?
 
-## 24. Final checklist
+## 22. Final checklist
 
 Before travel, make sure you have:
 
@@ -823,7 +779,7 @@ Before travel, make sure you have:
 - phone with WhatsApp active;
 - copies saved in email/cloud.
 
-## 25. Source list
+## 23. Source list
 
 - Facebook reel reference: https://www.facebook.com/reel/2166898334097928/?mibextid=rS40aB7S9Ucbxw6v
 - 1KuwaitJobs: https://1kuwaitjobs.com/
