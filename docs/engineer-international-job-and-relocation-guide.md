@@ -1,8 +1,8 @@
 # International Engineering Job and Relocation Guide
 
-Prepared for: Michael Adekunle Falade  
-Current location assumption: Nigeria  
-Primary target pathway: Ireland Critical Skills Employment Permit (CSEP)  
+Prepared for: Michael Adekunle Falade
+Current location assumption: Nigeria
+Primary target pathway: Ireland Critical Skills Employment Permit (CSEP)
 Secondary target market: Finland/Helsinki specialist engineering roles
 
 > This guide is practical job-search and relocation preparation material, not legal advice. Immigration rules, salary thresholds, fees, and processing procedures can change. Before submitting any application, verify requirements on the official Irish and Finnish immigration websites linked in the source list.
@@ -162,7 +162,7 @@ Use 4 short paragraphs:
 
 Example:
 
-> I am a [discipline] engineer with [X]+ years of experience across [industries]. My work focuses on [design/project delivery/maintenance/process improvement/quality/commissioning] for [systems or assets].
+> I am a [discipline] engineer with [number]+ years of experience across [industries]. My work focuses on [design/project delivery/maintenance/process improvement/quality/commissioning] for [systems or assets].
 >
 > I bring hands-on experience in [tools], technical documentation, vendor coordination, and cross-functional engineering support. I am strongest in roles that require practical problem solving, safe delivery, and clear communication between engineering, operations, and management teams.
 >
@@ -267,7 +267,7 @@ My strongest areas are [3 strengths]. Recent achievements include [1 quantified 
 
 Would you be open to reviewing my CV for [role title] or similar engineering openings where international candidates are considered?
 
-Kind regards,  
+Kind regards,
 Michael
 
 ### Message to hiring manager
@@ -280,7 +280,7 @@ I am currently based in Nigeria and open to relocation. The role appears to fit 
 
 I would welcome the chance to discuss how my experience in [specific result/project] could support your team.
 
-Kind regards,  
+Kind regards,
 Michael
 
 ### Application form work authorization answer
