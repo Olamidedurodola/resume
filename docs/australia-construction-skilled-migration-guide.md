@@ -1,269 +1,257 @@
-# Australia Skilled Migration Guide for Construction Professionals
+# Australia Skilled Migration Guide for Husband-and-Wife Construction/HR Profile
 
-Prepared for: Construction professional with 10+ years of experience
+Prepared for: Nigerian husband-and-wife profile currently linked to UK/Scotland work history
 Target country: Australia
-Primary goal: Skilled migration, employer sponsorship, and permanent residence
+Primary goal: Skilled migration and permanent residence
 Research date: 2 June 2026
 
-> Note: The supplied Google Docs links returned Google sign-in pages in this environment, so their contents could not be read. This guide is built from official Australian migration principles, skills-assessment requirements, and construction job-market research. If the Google Doc content is later pasted or exported as text, this guide can be updated with those details.
+> This guide is based on the uploaded Australia husband-and-wife migration profile and official Australian skilled migration/skills assessment sources. It is not migration advice. Confirm all points, occupation lists, English-test rules and skills-assessment requirements with the Department of Home Affairs, VETASSESS and a MARA-registered migration agent.
 
-## 1. Executive summary
+## 1. Profile summary
 
-Australia can be a strong option for a construction professional with 10+ years of experience, but it is stricter than Canada because the applicant must usually pass a skills assessment and satisfy points, age, English, occupation, and visa criteria.
+### Wife - strongest Australia principal applicant
 
-Best Australia routes:
+- Age: 35.
+- Occupation direction: Human Resource Manager.
+- Suggested ANZSCO: 132311 Human Resource Manager.
+- Education: MSc Business Administration, UK university.
+- Experience: 10+ years HR in Nigerian aviation plus UK experience.
+- Language: PTE Core Band 9 in uploaded file.
+- Estimated points in uploaded file: about 90-95.
 
-1. **Subclass 190 Skilled Nominated visa** - permanent residence with state/territory nomination.
-2. **Subclass 491 Skilled Work Regional visa** - 5-year provisional regional visa with a pathway to permanent residence through subclass 191.
-3. **Subclass 189 Skilled Independent visa** - permanent residence without state sponsorship, but usually very competitive.
-4. **Subclass 482 Skills in Demand visa** - employer-sponsored temporary work route, often the practical entry route.
-5. **Subclass 186 Employer Nomination Scheme** - employer-sponsored permanent residence, usually after employer relationship or where direct entry requirements are met.
+### Husband - independent Australia construction applicant or spouse bonus contributor
 
-Important age warning:
+- Age: 40-42.
+- Occupation direction: Construction Project Manager / Construction Site Supervisor.
+- Suggested ANZSCO: 133111 Construction Project Manager, if duties match.
+- Education: BSc Mass Communication plus NVQ Site Supervisor.
+- Experience: 10+ years construction site supervision in Nigeria and UK.
+- Language: PTE Core Band 8.5 in uploaded file.
+- Estimated points in uploaded file: about 70-80 depending on exact age.
 
-- Points-tested skilled visas generally require the applicant to be under 45 at time of invitation.
-- If the construction professional is 45 or older, Australia becomes much harder, and employer-sponsored options may be the only practical pathway.
+## 2. Age and eligibility reality
 
-## 2. Best route by construction profile
+Australia is age-sensitive.
 
-### Construction manager / project manager
+For the wife:
 
-Likely occupation:
+- Age 35 is still strong.
+- She should move quickly because points reduce with age.
+- Her profile appears stronger than the husband's for points-tested migration.
 
-- ANZSCO 133111 Construction Project Manager.
+For the husband:
 
-Assessing authority:
+- At age 40, he may still be competitive for state nomination.
+- At age 42, points reduce further and 189 becomes less realistic.
+- At 45, most points-tested skilled visas become unavailable.
+- His best Australia route is likely 190 state nomination or 491 regional, not 189.
 
-- VETASSESS.
+## 3. Critical correction: PTE Core vs PTE Academic
 
-Skills assessment expectation:
+The uploaded file uses PTE Core scores. Canada accepts PTE Core for Express Entry. Australia generally uses approved English tests such as PTE Academic, IELTS, TOEFL iBT, OET or Cambridge C1 Advanced depending on current Home Affairs rules.
 
-- qualification comparable to an Australian Bachelor degree or higher;
-- highly relevant field such as construction management, building, civil engineering, quantity surveying, or related field;
-- at least one year of highly relevant post-qualification employment at the required skill level within the last five years;
-- evidence such as organisation chart, project list, reference letters, contracts, payslips, and proof of project authority.
+Action required:
 
-Best visas:
+- Verify whether PTE Core is accepted for Australian skilled migration at the time of application.
+- If not accepted, both must take PTE Academic or IELTS.
+- Do not submit skills/EOI assuming PTE Core counts unless Home Affairs confirms it.
 
-- 190;
-- 491;
-- 482 Skills in Demand;
-- 186 Employer Nomination.
+This is the first Australia action before relying on the points estimates.
 
-### Carpenter, plumber, electrician, welder, HVAC, fitter, bricklayer
+## 4. Best Australia strategy for this family
 
-Likely assessing authority:
+### Recommended primary route
 
-- Trades Recognition Australia (TRA).
+Wife applies as principal applicant for:
 
-Possible assessment route:
+1. subclass 189 Skilled Independent;
+2. subclass 190 Skilled Nominated;
+3. subclass 491 Skilled Work Regional as backup.
 
-- Offshore Skills Assessment Program (OSAP) for certain licensed trades and passport/occupation combinations;
-- Migration Skills Assessment (MSA) where OSAP is not mandatory.
+Why:
 
-Best visas:
+- her age is better;
+- her points are stronger;
+- MSc Business Admin aligns better with HR Manager than husband's BSc Mass Comm aligns with Construction Project Manager;
+- she can claim partner points if husband obtains a positive skills assessment and competent English.
 
-- 189 if occupation and points are strong;
-- 190;
-- 491;
-- 482 Skills in Demand;
-- 186 after employer sponsorship.
+### Husband parallel route
 
-### Site supervisor / foreman / leading hand
+Husband should also prepare a separate application pathway as Construction Project Manager only if VETASSESS confirms the profile can pass.
 
-This profile must be mapped carefully.
+Best route order for husband:
 
-Possible pathways:
+1. subclass 190 state nomination;
+2. subclass 491 regional nomination;
+3. subclass 482 employer sponsorship;
+4. subclass 186 employer nomination later;
+5. subclass 189 only if points and invitation history support it.
 
-- If mostly hands-on trade: assess as the trade, such as carpenter or plumber.
-- If managing full projects and procurement/schedules: consider Construction Project Manager if qualification and duties fit.
-- If neither fits cleanly, Australia may be difficult.
+## 5. Main risk for the husband's Construction Project Manager assessment
 
-## 3. Australia visa route ranking
+The uploaded file suggests ANZSCO 133111 Construction Project Manager.
 
-### Route 1: Subclass 190 Skilled Nominated visa
+Official VETASSESS information for Construction Project Manager indicates it is a Group A occupation and usually requires:
 
-This is often the best permanent visa for construction professionals.
+- a qualification comparable to an Australian Bachelor degree or higher;
+- highly relevant field of study;
+- at least one year of highly relevant post-qualification employment within the last five years;
+- evidence that the role involved authority over construction projects.
 
-Key features:
+Risk:
 
-- permanent residence;
-- requires state/territory nomination;
-- points-tested;
-- requires positive skills assessment;
-- requires occupation on relevant occupation list;
-- applicant normally must be under 45 at invitation;
-- English test required;
-- state may require job offer, local experience, or evidence of employability.
+- His BSc Mass Communication is likely not a highly relevant construction field.
+- The NVQ Site Supervisor is relevant but must be assessed by VETASSESS in context.
+- Experience alone may not solve a Group A qualification mismatch.
+- The case is strongest if VETASSESS accepts the NVQ/site-supervisor evidence plus experience as sufficiently relevant, but this must be verified before spending heavily.
 
-Why it is strong:
+The husband should not assume that 10+ years experience automatically guarantees a positive Construction Project Manager skills assessment.
 
-- State nomination adds points.
-- Construction is often in demand in states with housing and infrastructure needs.
+## 6. Duties husband must prove for ANZSCO 133111
 
-### Route 2: Subclass 491 Skilled Work Regional visa
+For Construction Project Manager, evidence should show he did more than supervise labour.
 
-This is a regional skilled route.
+He should prove responsibility for:
 
-Key features:
-
-- provisional 5-year visa;
-- state/territory or eligible family sponsorship;
-- pathway to permanent residence through subclass 191 after meeting residence and income/conditions;
-- adds more points than subclass 190;
-- often more accessible than 189/190 for regional construction needs.
-
-Best for:
-
-- applicants open to regional Australia;
-- tradespeople and construction managers whose points are not high enough for 189/190;
-- applicants who can target states/territories with construction shortages.
-
-### Route 3: Subclass 189 Skilled Independent visa
-
-Key features:
-
-- permanent residence;
-- no employer or state sponsor;
-- points-tested;
-- very competitive;
-- requires occupation on eligible list;
-- requires positive skills assessment.
-
-Best for:
-
-- younger applicants;
-- high English scores;
-- strong qualifications;
-- high points;
-- in-demand occupation.
-
-### Route 4: Subclass 482 Skills in Demand visa
-
-This is often the fastest practical work route if an employer wants to sponsor.
-
-Key features:
-
-- employer-sponsored;
-- temporary work visa;
-- requires nominated occupation;
-- skills and experience evidence;
-- English requirement;
-- salary threshold and market salary checks;
-- may lead to permanent residence through employer nomination after meeting conditions.
-
-Best for:
-
-- candidates with strong job offer;
-- applicants who are older or not competitive for points-tested PR;
-- tradespeople with employers willing to sponsor.
-
-### Route 5: Subclass 186 Employer Nomination Scheme
-
-This is employer-sponsored permanent residence.
-
-Possible use cases:
-
-- direct entry if skills assessment and experience requirements are met;
-- transition after working for an employer on 482.
-
-Best for:
-
-- experienced construction professionals with a committed employer;
-- applicants who can prove they meet occupation and skill requirements.
-
-## 4. Skills assessment strategy
-
-### VETASSESS for Construction Project Manager
-
-Construction Project Manager is a VETASSESS Group A occupation.
-
-The role must involve authority over construction projects, such as:
-
-- planning and organising construction projects;
+- planning construction projects;
+- organising and controlling site works;
 - managing schedules;
-- determining labour/resources;
-- deciding construction methodology;
-- tendering/procurement input;
-- managing budgets;
-- coordinating contractors;
-- liaising with clients, consultants, and authorities;
-- managing site delivery and project controls.
+- managing labour and subcontractors;
+- coordinating procurement/materials;
+- contributing to tendering or cost estimates;
+- managing budgets or cost control;
+- liaising with clients, consultants, architects, engineers or authorities;
+- ensuring safety and quality compliance;
+- managing project delivery from mobilisation to handover.
 
-Documents to prepare:
+If his role was mainly site supervision without budget/project authority, a different occupation or employer-sponsored route may be safer.
 
-- degree certificate;
-- transcript;
-- detailed CV;
-- employment reference letters;
+## 7. Visa route details
+
+### Subclass 189 Skilled Independent
+
+Best for wife if points are high enough and HR Manager remains eligible/invited.
+
+Pros:
+
+- direct PR;
+- no employer;
+- no state obligation.
+
+Cons:
+
+- competitive;
+- invitation depends on occupation, points and government priorities.
+
+### Subclass 190 Skilled Nominated
+
+Best balanced PR route for both.
+
+Pros:
+
+- direct PR;
+- state nomination adds points;
+- construction shortages may help husband;
+- stronger than relying only on 189.
+
+Cons:
+
+- must meet state requirements;
+- may need commitment to live/work in nominating state.
+
+### Subclass 491 Skilled Work Regional
+
+Good backup for husband if points are lower due to age.
+
+Pros:
+
+- regional areas need construction workers;
+- more points;
+- pathway to PR through subclass 191.
+
+Cons:
+
+- not immediate PR;
+- regional residence/work conditions apply.
+
+### Subclass 482 Skills in Demand
+
+Practical backup if an employer wants the husband for a construction role.
+
+Pros:
+
+- employer-driven;
+- useful if points-tested migration is slow;
+- can lead to 186 employer-nominated PR.
+
+Cons:
+
+- tied to employer;
+- skill assessment may still be required for some occupations/passports;
+- not permanent immediately.
+
+## 8. Step-by-step Australia plan
+
+### Phase 1 - immediate
+
+1. Verify whether PTE Core is accepted. If not, book PTE Academic or IELTS.
+2. Wife prepares VETASSESS for HR Manager.
+3. Husband requests VETASSESS pre-check/advice or consults MARA agent for Construction Project Manager viability.
+4. Gather all reference letters.
+5. Collect UK and Nigerian employment proof.
+
+### Phase 2 - skills assessment
+
+Wife:
+
+- MSc certificate/transcript;
+- HR reference letters;
+- organisation size and reporting line evidence;
+- payslips/tax/bank proof;
+- VETASSESS HR Manager assessment.
+
+Husband:
+
+- NVQ Site Supervisor;
+- BSc certificate/transcript;
+- construction references showing project-management duties;
 - organisation chart;
-- project list template;
-- contracts/appointment letters;
-- payslips;
-- tax records;
-- bank salary records;
-- project photos/documents where non-confidential;
-- evidence of budget/schedule authority.
+- project list;
+- project values;
+- site photos/documents where non-confidential;
+- payslips/tax/bank proof;
+- VETASSESS Construction Project Manager assessment if viable.
 
-### TRA/OSAP for trades
+### Phase 3 - EOI and nomination
 
-Trades Recognition Australia assesses many trade occupations.
+1. Submit SkillSelect EOI for wife for 189, 190 and 491.
+2. Submit state nomination applications for wife where HR Manager is open.
+3. Submit husband EOI for 190/491 only if positive skills assessment is achieved.
+4. Target states with construction demand for husband.
 
-OSAP may apply to:
+### Phase 4 - invitation and visa
 
-- electrician;
-- plumber;
-- air-conditioning and refrigeration mechanic;
-- certain construction trades depending on country/occupation rules.
+1. Receive invitation.
+2. Lodge visa within deadline.
+3. Complete health checks.
+4. Provide police certificates from Nigeria and UK.
+5. Pay visa charges.
+6. Wait for decision.
 
-TRA-approved RTOs may conduct:
+## 9. Job links for Australia construction profile
 
-- documentary evidence review;
-- technical interview;
-- practical assessment for some trades.
-
-Documents to prepare:
-
-- passport;
-- trade certificates;
-- apprenticeship records;
-- employment reference letters;
-- payslips;
-- bank statements;
-- tax records;
-- photos of work/tools/projects;
-- safety certificates;
-- licences;
-- training records.
-
-## 5. Step-by-step Australia plan
-
-1. Confirm age. If 45 or over, prioritise employer sponsorship, not points-tested PR.
-2. Choose occupation: Construction Project Manager or trade occupation.
-3. Check assessing authority: VETASSESS or TRA.
-4. Take English test: IELTS/PTE/TOEFL accepted depending on visa rules.
-5. Complete skills assessment.
-6. Calculate points.
-7. Submit Expression of Interest in SkillSelect.
-8. Submit state nomination applications where eligible.
-9. Apply to Australian employers for 482/186 sponsorship at the same time.
-10. If invited, lodge visa application with documents, health checks, police checks, and fees.
-
-## 6. Job links for Australia construction roles
-
-### Durable job searches
+Even if the wife is the main applicant, the husband should search for employers early.
 
 - SEEK construction visa sponsorship: https://au.seek.com/construction-visa-sponsorship-jobs/full-time
 - SEEK construction project manager: https://www.seek.com.au/construction-project-manager-jobs
-- SEEK carpenter sponsorship: https://www.seek.com.au/carpenter-visa-sponsorship-jobs
-- SEEK plumber sponsorship: https://www.seek.com.au/plumber-visa-sponsorship-jobs
-- SEEK electrician sponsorship: https://www.seek.com.au/electrician-visa-sponsorship-jobs
-- Indeed Australia construction visa sponsorship: https://au.indeed.com/jobs?q=construction+visa+sponsorship
+- SEEK site manager construction: https://www.seek.com.au/site-manager-construction-jobs
+- SEEK construction supervisor: https://www.seek.com.au/construction-supervisor-jobs
+- Indeed Australia construction sponsorship: https://au.indeed.com/jobs?q=construction+visa+sponsorship
 - LinkedIn Australia construction jobs: https://www.linkedin.com/jobs/search/?keywords=Construction&location=Australia
-- 482 Jobs Australia construction listings: https://482jobs.com/
+- 482 Jobs Australia: https://482jobs.com/
 - Workforce Australia: https://www.workforceaustralia.gov.au/
 
-### Direct employer career pages
+### Employer pages
 
 - Lendlease careers: https://www.lendlease.com/careers/
 - CPB Contractors careers: https://www.cpbcon.com.au/en/careers
@@ -273,80 +261,31 @@ Documents to prepare:
 - Downer careers: https://www.downergroup.com/careers
 - BMD careers: https://www.bmd.com.au/careers/
 - Hutchinson Builders careers: https://www.hutchinsonbuilders.com.au/careers/
-- Built careers: https://built.com.au/careers/
 - Fulton Hogan careers: https://www.fultonhogan.com/careers/
 - Hays Construction Australia: https://www.hays.com.au/jobs/construction
 - Randstad Construction Australia: https://www.randstad.com.au/jobs/s-construction/
 
-## 7. Australia resume strategy
+## 10. Recommended final strategy
 
-Use an Australian-style resume:
+Best family strategy:
 
-- 2 to 4 pages for senior construction roles;
-- no photo;
-- no date of birth;
-- include visa status: "Requires employer sponsorship" if no visa;
-- include tickets/licences;
-- include project values;
-- include safety record;
-- include software: MS Project, Primavera P6, AutoCAD, Procore, Aconex, Bluebeam, Revit, etc.
+1. Wife leads Australia application.
+2. Husband prepares skills assessment only after confirming VETASSESS feasibility.
+3. Both take Australia-accepted English test if PTE Core is not accepted.
+4. Wife submits 189/190 EOI.
+5. Husband targets 190/491 or 482 employer sponsorship.
 
-Achievement examples:
+Decision rule:
 
-- Delivered [project type] valued at [amount] from mobilisation to handover.
-- Managed [number] subcontractors across [scope].
-- Reduced rework by [percentage] through quality control and site inspections.
-- Maintained zero lost-time incidents across [period/project].
-- Coordinated procurement, schedule, labour and site logistics for [project].
-
-## 8. Outreach message
-
-Hello [Name],
-
-I am a construction professional with over 10 years of experience in [trade/project type]. My background includes [site supervision/project management/trade skill], safety compliance, subcontractor coordination, and delivery of [residential/commercial/civil/infrastructure] projects.
-
-I am interested in your [job title] role and open to relocating to Australia. I understand employer sponsorship may be required and I am preparing documents for skills assessment.
-
-Please may I send my resume for review?
-
-Kind regards,
-[Candidate name]
-
-## 9. Best strategy for this candidate
-
-If under 45:
-
-1. Complete skills assessment.
-2. Submit EOI for 190 and 491.
-3. Apply to employers for 482 sponsorship.
-4. Pursue PR through 190/491 or 186.
-
-If 45 or older:
-
-1. Focus on employer sponsorship.
-2. Target high-demand roles and employers with sponsor history.
-3. Consider whether any age exemptions apply for employer-sponsored PR.
-4. Get professional migration advice before spending on skills assessment.
-
-## 10. Final action checklist
-
-1. Confirm exact occupation.
-2. Confirm age eligibility.
-3. Choose assessing authority.
-4. Gather certificates and employment evidence.
-5. Take English test.
-6. Complete VETASSESS/TRA skills assessment.
-7. Submit SkillSelect EOI if eligible.
-8. Apply for 190/491 state nomination.
-9. Apply to employers for 482 sponsorship.
-10. Move to PR through 190, 491-to-191, or 186 where eligible.
+- If husband's VETASSESS assessment is positive, run his 190/491 application in parallel.
+- If negative or risky, do not waste time forcing Australia through him; use wife as main applicant and husband works after migration.
 
 ## 11. Source list
 
+- Uploaded Australia husband-and-wife migration guide supplied by user.
 - Australia Skilled Independent visa 189: https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-independent-189
 - Australia Skilled Nominated visa 190: https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-nominated-190
 - Australia Skilled Work Regional visa 491: https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-work-regional-provisional-491
 - VETASSESS Construction Project Manager: https://www.vetassess.com.au/check-my-occupation/professional-occupations/construction-project-manager
 - TRA OSAP: https://www.tradesrecognitionaustralia.gov.au/programs/offshore-skills-assessment-program-osap
-- TRA OSAP application guide: https://www.tradesrecognitionaustralia.gov.au/14-how-apply-1
 - SEEK construction sponsorship jobs: https://au.seek.com/construction-visa-sponsorship-jobs/full-time
