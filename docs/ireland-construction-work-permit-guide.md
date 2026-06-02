@@ -33,28 +33,18 @@ This makes Ireland a strong practical target for him, especially if Australia be
 
 ## 3. 2026 Ireland construction permit opportunity
 
-The supplied Nairametrics article reports 32 employment-permit changes in Ireland, including construction-sector openings.
+Recent employment-permit updates include construction roles on the Critical Skills Employment Permit list.
 
-Important construction changes:
-
-### Added to Critical Skills Employment Permit list
+Relevant additions for him:
 
 - Construction Planner;
 - Construction Scheduler;
 - Geospatial Surveyor / Land Surveyor / Geomatics Surveyor.
 
-### Removed from Ineligible Occupations List and now eligible under General Employment Permit
-
-- Steel Fixer;
-- Fencing Operator / Erector;
-- Curtain Waller / Curtain Wall Installer;
-- Concrete Pump Operator;
-- Plastic Lining Technician.
-
 What this means:
 
 - If he can credibly present as a construction planner, scheduler, site manager, project controls person, construction manager or supervisor, he should target higher-skilled permit roles first.
-- If his hands-on experience is stronger in trade/site execution, he should target GEP construction roles now newly accessible.
+- If the role does not fit Critical Skills, a General Employment Permit may still be possible depending on job title, salary, and whether the occupation is eligible.
 
 ## 4. Best Ireland route ranking for him
 
@@ -90,20 +80,13 @@ Risk:
 
 Best target roles:
 
-- Steel Fixer;
-- Concrete Pump Operator;
-- Curtain Wall Installer;
-- Fencing Erector;
-- Mechanical Site Fitter;
-- Welder-Fabricator;
-- Formwork Carpenter;
-- Groundworker;
-- Plant Operator;
-- Construction Supervisor where not ineligible.
+- Construction Site Supervisor;
+- Site Manager where not on Critical Skills;
+- Construction Supervisor;
+- other eligible construction roles that match his experience and the employer’s permit assessment.
 
 Why it works:
 
-- 2026 changes make more construction roles permit-eligible.
 - His 10+ years experience is valuable.
 - GEP is broad as long as the role is not ineligible.
 
@@ -202,12 +185,7 @@ Track A - CSEP:
 
 Track B - GEP:
 
-- Steel Fixer;
-- Curtain Wall Installer;
-- Concrete Pump Operator;
-- Site Fitter;
-- Welder-Fabricator;
-- hands-on construction roles.
+- Site Manager / Construction Supervisor and other eligible construction roles that fit his experience.
 
 ### Step 2: Build Ireland CV
 
@@ -261,17 +239,13 @@ After job offer:
 - IrishJobs construction jobs: https://www.irishjobs.ie/jobs/construction/in-ireland
 - IrishJobs construction planner jobs: https://www.irishjobs.ie/jobs/construction-planner/in-ireland
 - IrishJobs site manager jobs: https://www.irishjobs.ie/jobs/site-manager/in-ireland
-- IrishJobs steel fixer jobs: https://www.irishjobs.ie/jobs/steel-fixer/in-ireland
 - IrishJobs quantity surveyor jobs: https://www.irishjobs.ie/jobs/quantity-surveyor/in-ireland
 - LinkedIn Ireland construction planner: https://www.linkedin.com/jobs/search/?keywords=Construction%20Planner&location=Ireland
 - LinkedIn Ireland site manager: https://www.linkedin.com/jobs/search/?keywords=Site%20Manager%20Construction&location=Ireland
-- LinkedIn Ireland steel fixer: https://www.linkedin.com/jobs/search/?keywords=Steel%20Fixer&location=Ireland
 - Indeed Ireland construction jobs: https://ie.indeed.com/jobs?q=construction
 
 ### Example JobsIreland links found during research
 
-- Steel fixer example: https://employer.jobsireland.ie/Reports/GetJobsDetail?id=2432542
-- Steel fixer example: https://jobsireland.ie/en-US/job-Details?id=2444507
 - Mechanical site fitter example: https://jobsireland.ie/en-US/job-Details?id=2447971
 - Welder-fabricator example: https://jobsireland.ie/en-US/job-Details?id=2433154
 
@@ -328,10 +302,6 @@ Best first target:
 Best high-value target if experience supports it:
 
 - Construction Planner / Scheduler under Critical Skills.
-
-Best trade target if he has hands-on experience:
-
-- steel fixer, site fitter, curtain wall installer, concrete pump operator or related GEP-eligible roles.
 
 Ireland is probably more age-forgiving than Australia and more job-offer-driven than Canada. For him personally, Ireland may be the best direct construction route if an employer is willing to sponsor.
 
