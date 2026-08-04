@@ -2,8 +2,8 @@
 
 Personal career docs and tools.
 
-## LinkApply
+## LinkApply (moving to its own private repo)
 
-Local auto-apply assistant lives in [`personal-apply/`](./personal-apply/).
+The installable PWA lives in [`personal-apply/`](./personal-apply/).
 
-Drop a job URL → scrape → tailor materials → fill Greenhouse / Lever / Ashby forms → track everything in a local queue.
+See [`personal-apply/MOVE.md`](./personal-apply/MOVE.md) to push it to a **new private GitHub repo** and connect Vercel for phone access.

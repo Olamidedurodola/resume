@@ -1,7 +1,7 @@
 import fs from "fs";
+import os from "os";
 import path from "path";
 import { chromium, type Page } from "playwright";
-import { artifactsDir } from "../db";
 import type { Application, Profile } from "../types";
 
 export interface ApplyResult {
@@ -10,6 +10,19 @@ export interface ApplyResult {
   notes: string;
   screenshot_path: string;
   error?: string;
+  mobile_hint?: boolean;
+}
+
+function artifactsDir() {
+  const dir = path.join(process.cwd(), "data", "artifacts");
+  try {
+    fs.mkdirSync(dir, { recursive: true });
+    return dir;
+  } catch {
+    const fallback = path.join(os.tmpdir(), "linkapply-artifacts");
+    fs.mkdirSync(fallback, { recursive: true });
+    return fallback;
+  }
 }
 
 async function launchBrowser() {

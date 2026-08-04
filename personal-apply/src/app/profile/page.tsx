@@ -1,6 +1,7 @@
 "use client";
 
 import { FormEvent, useEffect, useState } from "react";
+import { getProfile, saveProfile } from "@/lib/client-store";
 import type { Profile } from "@/lib/types";
 
 const empty: Profile = {
@@ -14,7 +15,8 @@ const empty: Profile = {
   work_authorization: "",
   resume_text: "",
   default_cover_letter: "",
-  answers_json: '{\n  "years_experience": "",\n  "notice_period": "",\n  "salary_expectation": "",\n  "visa_sponsorship_needed": "No"\n}',
+  answers_json:
+    '{\n  "years_experience": "",\n  "notice_period": "",\n  "salary_expectation": "",\n  "visa_sponsorship_needed": "No"\n}',
   auto_submit: 0,
   openai_model: "gpt-4o-mini",
   updated_at: "",
@@ -26,9 +28,8 @@ export default function ProfilePage() {
   const [message, setMessage] = useState("");
 
   useEffect(() => {
-    fetch("/api/profile")
-      .then((r) => r.json())
-      .then((data: Profile) => {
+    getProfile()
+      .then((data) => {
         setProfile({
           ...data,
           answers_json:
@@ -46,18 +47,12 @@ export default function ProfilePage() {
     setMessage("");
     try {
       JSON.parse(profile.answers_json || "{}");
-      const res = await fetch("/api/profile", {
-        method: "PUT",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(profile),
-      });
-      const data = await res.json();
-      if (!res.ok) throw new Error(data.error || "Save failed");
+      const saved = await saveProfile(profile);
       setProfile({
-        ...data,
-        answers_json: JSON.stringify(JSON.parse(data.answers_json || "{}"), null, 2),
+        ...saved,
+        answers_json: JSON.stringify(JSON.parse(saved.answers_json || "{}"), null, 2),
       });
-      setMessage("Profile saved.");
+      setMessage("Saved on this device.");
     } catch (err) {
       setMessage(err instanceof Error ? err.message : String(err));
     } finally {
@@ -70,39 +65,73 @@ export default function ProfilePage() {
   }
 
   return (
-    <div className="space-y-6 max-w-3xl">
+    <div className="space-y-5 max-w-3xl">
       <div>
-        <h1 className="display text-5xl">Your profile</h1>
+        <h1 className="display text-4xl sm:text-5xl">Your profile</h1>
         <p className="mt-3 text-[var(--ink-soft)]">
-          Saved once, reused on every application. Auto-submit stays off until you turn it on.
+          Stored in this browser (IndexedDB) so the PWA works offline. Use the same device
+          or re-enter if you switch phones.
         </p>
       </div>
 
-      <form onSubmit={onSave} className="panel rounded-[24px] p-6 md:p-8 space-y-5">
+      <form onSubmit={onSave} className="panel rounded-[24px] p-5 md:p-8 space-y-5">
         <div className="grid md:grid-cols-2 gap-4">
           <div>
             <label className="label">Full name</label>
-            <input className="field" value={profile.full_name} onChange={(e) => set("full_name", e.target.value)} required />
+            <input
+              className="field"
+              value={profile.full_name}
+              onChange={(e) => set("full_name", e.target.value)}
+              required
+              autoComplete="name"
+            />
           </div>
           <div>
             <label className="label">Email</label>
-            <input className="field" type="email" value={profile.email} onChange={(e) => set("email", e.target.value)} required />
+            <input
+              className="field"
+              type="email"
+              value={profile.email}
+              onChange={(e) => set("email", e.target.value)}
+              required
+              autoComplete="email"
+            />
           </div>
           <div>
             <label className="label">Phone</label>
-            <input className="field" value={profile.phone} onChange={(e) => set("phone", e.target.value)} />
+            <input
+              className="field"
+              type="tel"
+              value={profile.phone}
+              onChange={(e) => set("phone", e.target.value)}
+              autoComplete="tel"
+            />
           </div>
           <div>
             <label className="label">Location</label>
-            <input className="field" value={profile.location} onChange={(e) => set("location", e.target.value)} />
+            <input
+              className="field"
+              value={profile.location}
+              onChange={(e) => set("location", e.target.value)}
+            />
           </div>
           <div>
             <label className="label">LinkedIn URL</label>
-            <input className="field" value={profile.linkedin_url} onChange={(e) => set("linkedin_url", e.target.value)} />
+            <input
+              className="field"
+              inputMode="url"
+              value={profile.linkedin_url}
+              onChange={(e) => set("linkedin_url", e.target.value)}
+            />
           </div>
           <div>
             <label className="label">Portfolio URL</label>
-            <input className="field" value={profile.portfolio_url} onChange={(e) => set("portfolio_url", e.target.value)} />
+            <input
+              className="field"
+              inputMode="url"
+              value={profile.portfolio_url}
+              onChange={(e) => set("portfolio_url", e.target.value)}
+            />
           </div>
         </div>
 
@@ -110,7 +139,7 @@ export default function ProfilePage() {
           <label className="label">Work authorization</label>
           <input
             className="field"
-            placeholder="e.g. Eligible to work in the EU; needs visa sponsorship"
+            placeholder="e.g. Needs visa sponsorship"
             value={profile.work_authorization}
             onChange={(e) => set("work_authorization", e.target.value)}
           />
@@ -119,7 +148,7 @@ export default function ProfilePage() {
         <div>
           <label className="label">Base resume (markdown or plain text)</label>
           <textarea
-            className="field min-h-56"
+            className="field min-h-52"
             value={profile.resume_text}
             onChange={(e) => set("resume_text", e.target.value)}
             placeholder="Paste your full resume here"
@@ -129,7 +158,7 @@ export default function ProfilePage() {
         <div>
           <label className="label">Default cover letter tone / template</label>
           <textarea
-            className="field min-h-32"
+            className="field min-h-28"
             value={profile.default_cover_letter}
             onChange={(e) => set("default_cover_letter", e.target.value)}
           />
@@ -138,7 +167,7 @@ export default function ProfilePage() {
         <div>
           <label className="label">Screening answers (JSON)</label>
           <textarea
-            className="field min-h-40 font-mono text-sm"
+            className="field min-h-36 font-mono text-sm"
             value={profile.answers_json}
             onChange={(e) => set("answers_json", e.target.value)}
           />
@@ -159,7 +188,7 @@ export default function ProfilePage() {
               checked={Boolean(profile.auto_submit)}
               onChange={(e) => set("auto_submit", e.target.checked ? 1 : 0)}
             />
-            Auto-submit filled forms (off = dry-run fill only)
+            Auto-submit when browser apply is available
           </label>
         </div>
 
