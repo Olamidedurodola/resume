@@ -107,6 +107,21 @@ export async function scrapeJob(url: string): Promise<ScrapedJob> {
     description = cleanText($("body").text()).slice(0, 20000);
   }
 
+  // Greenhouse (and similar) pages often include the apply form after the JD.
+  for (const marker of [
+    "Apply for this job",
+    "Submit application",
+    "* indicates a required field",
+  ]) {
+    const idx = description.indexOf(marker);
+    if (idx > 400) {
+      description = description.slice(0, idx).trim();
+      break;
+    }
+  }
+
+  description = description.replace(/^Back to jobs/i, "").trim();
+
   const companyMeta =
     extractMeta($, "og:site_name") ||
     cleanText($('[class*="company"], .company-name').first().text()) ||

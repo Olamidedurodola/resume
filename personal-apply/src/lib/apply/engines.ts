@@ -19,12 +19,19 @@ async function launchBrowser() {
   });
 }
 
-async function fillByLabels(page: Page, map: Record<string, string>) {
+async function fillByLabels(
+  page: Page,
+  map: Record<string, string>,
+  opts?: { exact?: boolean },
+) {
   for (const [label, value] of Object.entries(map)) {
     if (!value) continue;
+    const pattern = opts?.exact
+      ? new RegExp(`^${label}$`, "i")
+      : new RegExp(label, "i");
     const field = page
-      .getByLabel(new RegExp(label, "i"))
-      .or(page.getByPlaceholder(new RegExp(label, "i")))
+      .getByLabel(pattern)
+      .or(page.getByPlaceholder(pattern))
       .first();
     if (await field.count()) {
       try {
@@ -34,6 +41,13 @@ async function fillByLabels(page: Page, map: Record<string, string>) {
       }
     }
   }
+}
+
+function splitName(fullName: string): { first: string; last: string } {
+  const parts = fullName.trim().split(/\s+/).filter(Boolean);
+  if (parts.length === 0) return { first: "", last: "" };
+  if (parts.length === 1) return { first: parts[0], last: parts[0] };
+  return { first: parts[0], last: parts.slice(1).join(" ") };
 }
 
 async function tryUploadResume(page: Page, resumePath: string) {
@@ -87,19 +101,28 @@ export async function applyGreenhouse(
       await page.waitForTimeout(800);
     }
 
-    await fillByLabels(page, {
-      "first name": profile.full_name.split(" ")[0] || profile.full_name,
-      "last name": profile.full_name.split(" ").slice(1).join(" ") || profile.full_name,
-      name: profile.full_name,
-      email: profile.email,
-      phone: profile.phone,
-      linkedin: profile.linkedin_url,
-      website: profile.portfolio_url,
-      location: profile.location,
-    });
+    const { first, last } = splitName(profile.full_name);
+    // Exact labels first so a generic "name" match cannot overwrite First Name.
+    await fillByLabels(
+      page,
+      {
+        "first name": first,
+        "last name": last,
+        email: profile.email,
+        phone: profile.phone,
+        "linkedin profile": profile.linkedin_url,
+        website: profile.portfolio_url || profile.linkedin_url,
+      },
+      { exact: false },
+    );
+
+    const fullNameField = page.getByLabel(/^name$/i).first();
+    if (await fullNameField.count()) {
+      await fullNameField.fill(profile.full_name).catch(() => undefined);
+    }
 
     const cover = page
-      .getByLabel(/cover letter/i)
+      .getByLabel(/cover letter|additional information/i)
       .or(page.locator('textarea[name*="cover" i]'))
       .first();
     if ((await cover.count()) && app.cover_letter) {
